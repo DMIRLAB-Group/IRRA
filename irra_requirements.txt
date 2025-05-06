@@ -1,0 +1,6 @@
+colorama
+pyfiglet
+riposte
+inquirer
+langchain_chroma
+BCEmbedding==0.1.5`
